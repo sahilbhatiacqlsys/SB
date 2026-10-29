@@ -1,0 +1,13 @@
+/* src/pages/users.css – styles for Users page */
+.users-page .section-title { margin-bottom: 1rem; color: var(--t1); }
+.users-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.users-table th,
+.users-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+}
+.users-table th { background: var(--bg2); color: var(--accent); }
+.users-table tr:hover { background: var(--accent-bg); }

@@ -1,0 +1,4 @@
+// src/pages/SettingsPage.jsx already created, now create its CSS
+/* src/pages/settings.css – styles for Settings page */
+.settings-page .section-title { margin-bottom: 1rem; color: var(--t1); }
+.placeholder { color: var(--t2); font-size: 0.95rem; }

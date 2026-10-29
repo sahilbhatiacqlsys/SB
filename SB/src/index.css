@@ -1,0 +1,2 @@
+/* index.css – minimal reset, no layout constraints */
+*, *::before, *::after { box-sizing: border-box; }

@@ -1,0 +1,6 @@
+/* src/pages/documents.css – styles for Documents page */
+.documents-page .section-title { margin-bottom: 1rem; color: var(--t1); }
+.doc-list { list-style: none; padding: 0; }
+.doc-list li { margin: 0.6rem 0; }
+.doc-list a { color: var(--accent); text-decoration: none; transition: opacity 0.2s; }
+.doc-list a:hover { opacity: 0.8; }
